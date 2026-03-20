@@ -1,5 +1,5 @@
 # Packet Sniffing secara real time dengan menggunakan Wireshark
-![1.](wp1.png) 
+![1.]
 ## 1. BUKA APK WIRESHARK 
 - muncul tampilan seperti pada gambar tersebut, kemudian klik wifi untuk mengecek aktivitas yang sedang berjalan menggunakan wifi
 --- 
