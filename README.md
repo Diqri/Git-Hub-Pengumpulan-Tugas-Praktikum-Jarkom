@@ -1,4 +1,1 @@
-![1. BUKA APK WIRESHARK muncul tampilan seperti pada gambar tersebut, kemudian klik wifi untuk mengecek aktivitas yang berjalan menggunakan wifi](Screenshot(706).png)
-![2. muncul beberapa aktivitas](Screenshot(707).png)
-![3. Search link http://gaia.cs.umass.edu/wireshark-labs/INTRO-wireshark-file1.html pada chrome atau google untuk mengecek aktivitas, seperti contoh pada gambar munucul kalimat congratulations...](Screenshot2026-03-18210706.png)
-![4. Kembali lagi pada apk wireshark lalu klik 9104	261.974162500	128.119.245.12	192.168.43.19	HTTP	495	HTTP/1.1 200 OK  (text/html) kemudian lihat pada line-based text data untuk melihat isi dari website tersebut.](Screenshot(708).png)
+-AHMAD DIQRI WIRAYUDHA-
